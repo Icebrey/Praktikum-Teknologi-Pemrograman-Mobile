@@ -1,0 +1,150 @@
+{
+   "checksum": "dbed21a315e2839503f965ca20adaa67",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13229099074930517",
+            "date_last_used": "0",
+            "guid": "143e1b6e-553b-410e-ab22-474df71f8267",
+            "id": "13",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13229099074931262",
+            "date_last_used": "0",
+            "guid": "38e231ee-a97d-48fa-bd34-3c06f07f8b01",
+            "id": "14",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13229099074932027",
+            "date_last_used": "0",
+            "guid": "f920e1be-6ca1-4d08-8d9f-55cd20cdd36f",
+            "id": "15",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "children": [ {
+               "date_added": "13228992260830177",
+               "date_last_used": "0",
+               "guid": "0a2f65f6-1981-49d3-844f-087b490d9fcd",
+               "id": "17",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13228992260845259",
+               "date_last_used": "0",
+               "guid": "c84d0ea7-c167-4b3d-9a17-18780d3f6e38",
+               "id": "18",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13322560332610890",
+            "date_last_used": "0",
+            "date_modified": "13322560341744218",
+            "guid": "1d7c0f5c-6a71-4865-8d99-f2a808522072",
+            "id": "16",
+            "name": "Lenovo",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13322560327709250",
+         "date_last_used": "0",
+         "date_modified": "13229099074932027",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13322560327709257",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13211163841598160",
+            "date_last_used": "0",
+            "guid": "7c34490c-1fce-4849-a641-917f88dc9689",
+            "id": "8",
+            "name": "Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.kodedasar.com/belajar-cpp/"
+         }, {
+            "children": [ {
+               "date_added": "13211163872504320",
+               "date_last_used": "0",
+               "guid": "e1607b73-a2a5-45b8-876e-7f414e2cdad8",
+               "id": "10",
+               "name": "Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.kodedasar.com/belajar-cpp/"
+            }, {
+               "date_added": "13211163872514550",
+               "date_last_used": "0",
+               "guid": "107cbada-f4ef-432b-9be1-a13da96762d6",
+               "id": "11",
+               "name": "Dev-C++ download | SourceForge.net",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sourceforge.net/projects/orwelldevcpp/"
+            }, {
+               "date_added": "13211163872514694",
+               "date_last_used": "0",
+               "guid": "e5f5ee0a-02ad-4058-bed7-a23ccc4ab83c",
+               "id": "12",
+               "name": "Downloads",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "chrome://downloads/"
+            } ],
+            "date_added": "13240204314583302",
+            "date_last_used": "0",
+            "date_modified": "13240204314583302",
+            "guid": "4fe07437-a5cb-4eb3-9aa3-2979d05f1a3f",
+            "id": "9",
+            "name": "C++",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13322560327709267",
+         "date_last_used": "0",
+         "date_modified": "13211163841598160",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCP3xfqWGAQAAKg4QABgBIAQoBDAAOABAABIAIAEqGHNKeld0c3B5WGc1Z2R6WkREZzArMkE9PaAGDBKnAQgSEqIBChxnUzdVR0g3UGpYVC8xdjE3eUN0SFBxYVhibFk9EiRjODRkMGVhNy1jMTY3LTRiM2QtOWExNy0xODc4MGQzZjZlMzgYACAAKAAw16LzrOkwOOij86zpMEDoo/Os6TBKHDRzenlkSjhFYms3WXkxcUNSV2NLck8xVEZMZz1aHiIcZ1REdmdsMThoSVFpL0RqSWZVMEhHZzV4QUxnPWUAAAAAEqcBCAkSogEKHHJ6QnR0WlptcllYeVBrVXVEb05CU2p3NDJPbz0SJDQ1OGY5ZjNkLTVjODEtNDlmNS1hZDM3LTc5MTVhOGIzMTAzMRgAIAAoADD34sn6xC44z5CJvPQvQM+Qibz0L0ocN1hxek81UTdWc2htWjl1alVqaFBLV25VWTM0PVoeIhw5NjdVSVRrSUh3LzZ6Y29xL2U0S0hoczVrZ289ZQAAAAASqAEIDhKjAQocNEl1Z2piblh5MGtpZlQ0cGl5V2htb3pvRTRzPRIkOTEyODdlYTAtZDYzMC00MjM5LThkNzctODI2N2E1YTc4ZmVjGAAgAigCMPvHjq7rMDjFnom89C9A9L2OruswShxXbjBLZEZjYm91ejhhMEJvTlpKaUN0Q3lVc0k9Wh8iHaYxWVAvUy9Zck9KOHlDNnBHTWtVbUliZmVYUUk9ZTj9dtsSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMzgxZDhiMzItMDk0My01MDZlLWE5M2EtM2IzZGQ5YjdmNGEzGAAgACgAMOPEyfrELjjCj4m89C9Awo+JvPQvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgNEqIBChxHZlY3a1dnZFBXOG9QMlNUOXd2SGI5ajY4cGc9EiRjMjc3NWI2OS1mMGE3LTQzZTEtYWQ4Yy03OGRkZmViMDk0ZDkYACACKAIw+seOruswOOSeibz0L0DzvY6u6zBKHFU5MktrT0toVlpNL0hGYktrYlA5SkZXaFhDaz1aHiIcTGRkSVBkYnVjZ3psM1k0Y2pJQmd2ekxIbkhnPWUH+8bXEqgBCBASowEKHExyaVRFWURqWTVnWVY4SEVCdzY3TUpaZFNLbz0SJDFkN2MwZjVjLTZhNzEtNDg2NS04ZDk5LWYyYTgwODUyMjA3MhgAIAAoADDVovOs6TA4uaPzrOkwQLmj86zpMEocbmNEYXVnTEFDZjJxek51ejF4QnBPcjlJTHRnPVofIh3peStsbmlnY0hsTzJQTlZTa1ZQVDV6Y0ZNL3hFPWUAAAAAEqgBCAwSowEKHER1aDlZTmk1NzBxUDVINElKYWl0SDlLVFNpRT0SJDVjZjMyYmU3LTQ3N2MtNDg2ZC1hMThmLTYyMGYwYjkwNWE1YhgAIAAoADDO5cn6xC44jpGJvPQvQI6Ribz0L0ocOE1uM1dUWnlxNWV1MlhRMTNnRUVPdXMyRGxvPVofIh3Qd3pnMHFYcUR1bG5BdkFXZGtDM2pRUmV4c0Z3PWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDhiMDJlMWNmLWI4ZjctNTg2Mi1iZWE0LTM0YWMzZDU1NDY3MBgAIAAoADDixMn6xC44o4+JvPQvQKOPibz0L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIERKiAQocNGRRcDE3akZOaXE0ci9weUhWb0MxYnZ5bGR3PRIkMGEyZjY1ZjYtMTk4MS00OWQzLTg0NGYtMDg3YjQ5MGQ5ZmNkGAAgACgAMNai86zpMDjYo/Os6TBA2KPzrOkwShxNbkdobENXMmtNb3NaNHBQRTc2NWptYmFIaU09Wh4iHEc0amFuckZYOXhYNjZBK0E0Mnl4Q2c0TzVKdz1lAAAAABKoAQgLEqMBChxuL0xVU2NKNXF3M2dWczV2NHRxanB2aWJPblk9EiRjMDdiZDhiMi0xZGZjLTRiYzQtOWU3My05NGJjZGIxYTJkMDEYACAAKAAwzOXJ+sQuOO6Qibz0L0DukIm89C9KHFdyaUpIOXhibXlEWHlkdUlQUDNsWXcrenJKbz1aHyIdoEFPS3ZBSEFkZFc5aG0zL0xKSTBNODF6ZUZFZz1lAAAAABKoAQgPEqMBChwvVnU2TnRkc3lzRjE3dUNXdkV6UHdvZDVPdVU9EiQzZTA0YTJjOS05NDc0LTQ4M2ItOTUxOS0wMjg2OTllMWJlNjYYACAAKAAw9eLJ+sQuOKCQibz0L0CgkIm89C9KHFhhU0x0azVoK3oyL01xTG1rRUtBZ0JDU2dzYz1aHyId03ZUZGFYZEtiV3gyYzJGLzVhMDBGU2hRdjFtQT1lAAAAABKnAQgIEqIBChxDTEwxYnpkVDJoYlJqdFNibXZBc3V2aUpVWVE9EiRhOWM4NzY2ZC1mMzU5LTQ5MmQtYjFlMC1hMTE2ZDE2ZTk1ZDAYACAAKAAw9uLJ+sQuOLCQibz0L0CwkIm89C9KHFhLSFJGcDJFbDU4STB3b1FzTUl3aENSdTFBST1aHiIcMEdJNEh6VVFLR3F2aVhVamEzTkFoZTk4MmtjPWUAAAAAEqcBCAoSogEKHExHcVJmTVMwbGxlZUp3ZFBOTUdEbHN6SnlGMD0SJGY1NzA1N2QwLWM5NjItNDQzNi1hN2I4LTYzZWEyOTcyN2E5MBgAIAAoADD44sn6xC4435CJvPQvQN+Qibz0L0ocMkZ2Z2VUUE9yYXNHV292ekwwaGZseVpLMEh3PVoeIhxBWERFVEY1N2FXTnJMZWJHbWZ1cUFrVHdCd3M9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZTY5MzMyZjgtNjU2Zi01ZmE3LTlhMWItZjhjMTgwNDk2MTViGAAgACgAMOfEyfrELjiBkIm89C9AgZCJvPQvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
